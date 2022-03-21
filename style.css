@@ -25,10 +25,11 @@ table {
     width: 50%;
     color: lightcyan;
     font-size: 20px;
+    background-color: darkcyan;
 }
 
 table thead {
-    background-color: white;
+    background-color: palegoldenrod;
     font-weight: bold;
     font-size: 20px;
     border: 6px;
