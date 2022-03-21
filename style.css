@@ -2,7 +2,7 @@ body {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color: beige;
-    background-color: darkblue;
+    background-color: lightseagreen;
     font-size: 21px;
 }
 
@@ -20,7 +20,7 @@ h2 {
 table {
     text-align: center;
     margin: auto;
-    border-spacing: 5px;
+    border-spacing: 3px;
     font-weight: bold;
     width: 50%;
     color: lightcyan;
@@ -43,7 +43,7 @@ table td {
 }
 
 .elements {
-    background-color: darkorchid;
+    background-color: darkgray;
     color: black;
     font-family: monospace;
     font-weight: bold;
