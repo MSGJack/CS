@@ -7,7 +7,7 @@ body {
 
 h1 {
     text-align: center;
-    font-size: 50px;
+    font-size: 20px;
 }
 
 h2 {
@@ -24,6 +24,7 @@ table {
 table thead {
     background-color: #800020;
     font-weight: bold;
+    font-size: 12px;
 
 }
 
@@ -33,7 +34,7 @@ table td {
 }
 
 .elements {
-    background-color: purple;
-    color: blueviolet;
+    background-color: blue;
+    color: white;
     font-family: monospace;
 }
