@@ -19,7 +19,7 @@ table {
     margin: auto;
     border: 4px;
     font-weight: bold;
-    width: %60;
+    width: 60%;
 }
 
 table thead {
@@ -31,11 +31,11 @@ table thead {
 
 table td {
     border: 2px solid;
-    font-weight: bold;;
+    font-weight: bold;
 }
 
 .elements {
-    background-color: black;
+    background-color: rgb(65, 119, 155);
     color: white;
-    font-family: monospace;
+    font-family: monospace;font-weight: bold;
 }
