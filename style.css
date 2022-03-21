@@ -33,9 +33,10 @@ table thead {
 }
 
 table td {
-    border: 2px solid;
+    border: 5px solid;
     font-weight: bold;
-    color: beige;
+    color: indigo;
+    font-size: 15px;
 }
 
 .elements {
