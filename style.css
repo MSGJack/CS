@@ -3,6 +3,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     color: beige;
     background-color: darkblue;
+    font-size: 21px;
 }
 
 h1 {
@@ -22,8 +23,7 @@ table {
     border-spacing: 5px;
     font-weight: bold;
     width: 50%;
-    background-color: honeydew;
-    color: aqua;
+    color: lightcyan;
     font-size: 20px;
 }
 
@@ -43,7 +43,7 @@ table td {
 }
 
 .elements {
-    background-color: gray;
+    background-color: darkorchid;
     color: black;
     font-family: monospace;
     font-weight: bold;
