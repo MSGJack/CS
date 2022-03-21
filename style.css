@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color:gold;
+    color: azure;
     background-color: #800020;
 }
 
@@ -23,7 +23,7 @@ table {
 }
 
 table thead {
-    background-color: #800020;
+    background-color: #d15977;
     font-weight: bold;
     font-size: 12px;
 
@@ -37,5 +37,6 @@ table td {
 .elements {
     background-color: rgb(65, 119, 155);
     color: white;
-    font-family: monospace;font-weight: bold;
+    font-family: monospace;
+    font-weight: bold;
 }
