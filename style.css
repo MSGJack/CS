@@ -2,7 +2,7 @@ body {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color:gold;
-    background-color: black;
+    background-color: #800020;
 }
 
 h1 {
@@ -15,10 +15,11 @@ h2 {
 }
 
 table {
-    text-align: left;
+    text-align: center;
     margin: auto;
-    border: 2px;
+    border: 4px;
     font-weight: bold;
+    width: %60;
 }
 
 table thead {
@@ -34,7 +35,7 @@ table td {
 }
 
 .elements {
-    background-color: blue;
+    background-color: black;
     color: white;
     font-family: monospace;
 }
