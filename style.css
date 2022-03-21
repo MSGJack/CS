@@ -19,23 +19,23 @@ h2 {
 table {
     text-align: center;
     margin: auto;
-    border-spacing: 4px;
+    border-spacing: 5px;
     font-weight: bold;
     width: 50%;
 }
 
 table thead {
-    background-color: black;
+    background-color: white;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 20px;
     border: 6px;
+    color: black;
 
 }
 
 table td {
     border: 5px solid;
     font-weight: bold;
-    color: indigo;
     font-size: 15px;
 }
 
